@@ -17,3 +17,9 @@
 Created tags v1.0.0 and v1.1.0 for release milestones.
 Used git tag 2 times.
 
+## Phase 4.5 — Git Reset, Revert & Reflog
+- Made an intentional bad commit and reverted it.
+- Practiced reset in soft, mixed, and hard modes.
+- Used git reflog to recover a lost commit.
+- Used cherry-pick to restore the lost commit.
+
