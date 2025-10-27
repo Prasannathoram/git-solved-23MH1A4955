@@ -13,3 +13,7 @@
 - Used rebase 1 time to update feature/another-feature with the latest commits from main.
 
 - Used git reflog + cherry-pick to restore lost commit
+## Phase 4.6 — Git Tag
+Created tags v1.0.0 and v1.1.0 for release milestones.
+Used git tag 2 times.
+
