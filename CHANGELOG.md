@@ -12,3 +12,4 @@
 ## Phase 4.4 — Git Rebase
 - Used rebase 1 time to update feature/another-feature with the latest commits from main.
 
+- Used git reflog + cherry-pick to restore lost commit
