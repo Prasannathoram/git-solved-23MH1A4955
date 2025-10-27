@@ -9,3 +9,6 @@
 ## Phase 4.3 — Git Cherry-Pick
 - Used cherry-pick 1 time to move a specific commit from feature/new-feature into main.
 
+## Phase 4.4 — Git Rebase
+- Used rebase 1 time to update feature/another-feature with the latest commits from main.
+
