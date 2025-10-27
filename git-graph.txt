@@ -1,4 +1,5 @@
-* 5d1863e (HEAD -> main, origin/main) docs: Add changelog
+* 5750c3f (HEAD -> main) docs: Add final project artifacts
+* 5d1863e (origin/main) docs: Add changelog
 * a8a6134 docs: Add changelog
 * cc15130 docs: Add complete Git Mastery Journey documentation
 * b70100c docs: Update changelog for reset, revert, and reflog
