@@ -1,0 +1,33 @@
+* 5d1863e (HEAD -> main, origin/main) docs: Add changelog
+* a8a6134 docs: Add changelog
+* cc15130 docs: Add complete Git Mastery Journey documentation
+* b70100c docs: Update changelog for reset, revert, and reflog
+* ae8d6f4 docs: Update changelog for tagging
+* d0aad15 docs: Update changelog for reflog and recovery
+* 8afe5d4 docs: Update changelog for rebase
+* 2811929 docs: update changelog for cherry-pick
+* d4c0cf8 docs: update changelog for stash
+* 728f622 docs: update changelog for fetch & pull
+* 7c300c1 docs: Update changelog for tagging
+| * 23bc0d2 (origin/feature/another-feature, feature/another-feature) docs: Update changelog for reflog and recovery
+| * aaec4f9 Bad commit
+| * 1db73d4 feat: Add test feature
+|/  
+* 9289758 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 995708d docs: update changelog for cherry-pick
+* 9796307 feat: Add new feature
+* 66c3c18 docs: Add FAQ section
+| * 8741544 (origin/feature/new-feature, feature/new-feature) docs: Update changelog with stash activity
+| * eb17c19 feat: Add new feature
+|/  
+*   ef9837a Merge branch 'conflict-simulator'
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   098752f merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
